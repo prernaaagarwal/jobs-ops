@@ -160,11 +160,7 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4731372005 | Glean | Product Manager, API Platform
-- [ ] https://careers.hellofresh.com/global/en/job/8167337?gh_jid=8167337 | HelloFresh | Senior Product Manager II, Consumer (all genders) 
-- [ ] https://jobs.lever.co/spotify/e7b01c1e-4246-4f31-83ea-9219c8b22c83 | Spotify | Senior Product Manager - Audiobooks Format Foundations
 
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4731388005 | Glean | Product Manager, API Platform
 
 - [ ] https://n26.com/en-eu/careers/positions/8172838?gh_jid=8172838 | N26 | Product Manager
 - [ ] https://sumup.com/careers/positions/8602383002?gh_jid=8602383002 | SumUp | Senior Product Manager - SuperApp
@@ -173,6 +169,12 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6185678004 | Hightouch | Product Manager, Marketing Orchestration
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6185521004 | Hightouch | Product Manager, Real Time
 - [ ] https://jobs.lever.co/spotify/a57db22d-dc0d-4f36-9a2e-34acdf1ec046 | Spotify | Senior Product Manager - Subscriptions
+
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8194650 | GetYourGuide | Lead Product Manager, Landing Pages 
+- [ ] https://n26.com/en-eu/careers/positions/8158787?gh_jid=8158787 | N26 | Senior Product Manager - Conversational Banking
+- [ ] https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183 | N26 | Senior Technical Product Manager — GenAI & Agentic Systems
+- [ ] https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295 | N26 | Technical Product Manager - Applied Machine Learning
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/6182480004 | DevRev | Senior Product Manager — Computer Data and Analytics Platform
 
 ## Fresh Scan 2026-04-23
 
