@@ -162,8 +162,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://n26.com/en-eu/careers/positions/8172838?gh_jid=8172838 | N26 | Product Manager
-- [ ] https://sumup.com/careers/positions/8602383002?gh_jid=8602383002 | SumUp | Senior Product Manager - SuperApp
 
 - [ ] https://n26.com/en-eu/careers/positions/8184770?gh_jid=8184770 | N26 | Product Manager
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6185678004 | Hightouch | Product Manager, Marketing Orchestration
@@ -175,6 +173,12 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183 | N26 | Senior Technical Product Manager — GenAI & Agentic Systems
 - [ ] https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295 | N26 | Technical Product Manager - Applied Machine Learning
 - [ ] https://job-boards.greenhouse.io/devrev/jobs/6182480004 | DevRev | Senior Product Manager — Computer Data and Analytics Platform
+
+- [ ] https://jobs.ashbyhq.com/decagon/900c16c2-57b4-483c-9ec3-e2fab77f897a | Decagon | Senior Agent Product Manager - Spanish Speaking
+- [ ] https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495 | N26 | Senior Technical Product Manager — GenAI & Agentic Systems
+- [ ] https://careers.hellofresh.com/global/en/job/8095957?gh_jid=8095957 | HelloFresh | Senior Product Manager, Intelligent Platforms
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7993837003?gh_jid=7993837003 | Celonis | Senior AI Transformation & Innovation Consultant
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7979898003 | Postman | Senior Product Manager
 
 ## Fresh Scan 2026-04-23
 
