@@ -163,10 +163,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://n26.com/en-eu/careers/positions/8184770?gh_jid=8184770 | N26 | Product Manager
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6185678004 | Hightouch | Product Manager, Marketing Orchestration
-- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6185521004 | Hightouch | Product Manager, Real Time
-- [ ] https://jobs.lever.co/spotify/a57db22d-dc0d-4f36-9a2e-34acdf1ec046 | Spotify | Senior Product Manager - Subscriptions
 
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8194650 | GetYourGuide | Lead Product Manager, Landing Pages 
 - [ ] https://n26.com/en-eu/careers/positions/8158787?gh_jid=8158787 | N26 | Senior Product Manager - Conversational Banking
@@ -179,6 +175,8 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://careers.hellofresh.com/global/en/job/8095957?gh_jid=8095957 | HelloFresh | Senior Product Manager, Intelligent Platforms
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7993837003?gh_jid=7993837003 | Celonis | Senior AI Transformation & Innovation Consultant
 - [ ] https://job-boards.greenhouse.io/postman/jobs/7979898003 | Postman | Senior Product Manager
+
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8200848 | Smartsheet | Senior Product Manager II, Developer ecosystem MCP (Remote from UK)
 
 ## Fresh Scan 2026-04-23
 
