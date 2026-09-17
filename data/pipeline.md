@@ -178,6 +178,8 @@ Format: `- [ ] {url} | {company} | {title}`
 
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8200848 | Smartsheet | Senior Product Manager II, Developer ecosystem MCP (Remote from UK)
 
+- [ ] https://careers.hellofresh.com/global/en/job/8096241?gh_jid=8096241 | HelloFresh | Operational Excellence & Transformation Manager
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
