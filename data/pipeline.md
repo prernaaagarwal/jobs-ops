@@ -182,6 +182,8 @@ Format: `- [ ] {url} | {company} | {title}`
 
 - [ ] https://jobs.ashbyhq.com/decagon/ee6c3e3f-b6ce-4945-a367-172d2b62ccf8 | Decagon | Senior Agent Product Manager
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428898008 | Anthropic | Product Manager, Safe Access
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
