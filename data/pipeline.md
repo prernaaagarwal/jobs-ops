@@ -164,11 +164,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8194650 | GetYourGuide | Lead Product Manager, Landing Pages 
-- [ ] https://n26.com/en-eu/careers/positions/8158787?gh_jid=8158787 | N26 | Senior Product Manager - Conversational Banking
-- [ ] https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183 | N26 | Senior Technical Product Manager — GenAI & Agentic Systems
-- [ ] https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295 | N26 | Technical Product Manager - Applied Machine Learning
-- [ ] https://job-boards.greenhouse.io/devrev/jobs/6182480004 | DevRev | Senior Product Manager — Computer Data and Analytics Platform
 
 - [ ] https://jobs.ashbyhq.com/decagon/900c16c2-57b4-483c-9ec3-e2fab77f897a | Decagon | Senior Agent Product Manager - Spanish Speaking
 - [ ] https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495 | N26 | Senior Technical Product Manager — GenAI & Agentic Systems
@@ -183,6 +178,8 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://jobs.ashbyhq.com/decagon/ee6c3e3f-b6ce-4945-a367-172d2b62ccf8 | Decagon | Senior Agent Product Manager
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428898008 | Anthropic | Product Manager, Safe Access
+
+- [ ] https://careers.hellofresh.com/global/en/job/8186086?gh_jid=8186086 | HelloFresh | Senior Product Manager II, Logistics (all genders) 
 
 ## Fresh Scan 2026-04-23
 
