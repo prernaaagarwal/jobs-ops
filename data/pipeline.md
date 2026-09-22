@@ -165,11 +165,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://jobs.ashbyhq.com/decagon/900c16c2-57b4-483c-9ec3-e2fab77f897a | Decagon | Senior Agent Product Manager - Spanish Speaking
-- [ ] https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495 | N26 | Senior Technical Product Manager — GenAI & Agentic Systems
-- [ ] https://careers.hellofresh.com/global/en/job/8095957?gh_jid=8095957 | HelloFresh | Senior Product Manager, Intelligent Platforms
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7993837003?gh_jid=7993837003 | Celonis | Senior AI Transformation & Innovation Consultant
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7979898003 | Postman | Senior Product Manager
 
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8200848 | Smartsheet | Senior Product Manager II, Developer ecosystem MCP (Remote from UK)
 
@@ -180,6 +175,10 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428898008 | Anthropic | Product Manager, Safe Access
 
 - [ ] https://careers.hellofresh.com/global/en/job/8186086?gh_jid=8186086 | HelloFresh | Senior Product Manager II, Logistics (all genders) 
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5413576008 | Anthropic | Product Manager, Safeguards (Account Integrity & Abuse) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5400720008 | Anthropic | Product Manager, Safeguards (Generalist) 
+- [ ] https://careers.hellofresh.com/global/en/job/8186084?gh_jid=8186084 | HelloFresh | Senior Product Manager II, Logistics
 
 ## Fresh Scan 2026-04-23
 
