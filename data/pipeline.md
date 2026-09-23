@@ -166,7 +166,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8200848 | Smartsheet | Senior Product Manager II, Developer ecosystem MCP (Remote from UK)
 
 - [ ] https://careers.hellofresh.com/global/en/job/8096241?gh_jid=8096241 | HelloFresh | Operational Excellence & Transformation Manager
 
@@ -179,6 +178,9 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5413576008 | Anthropic | Product Manager, Safeguards (Account Integrity & Abuse) 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5400720008 | Anthropic | Product Manager, Safeguards (Generalist) 
 - [ ] https://careers.hellofresh.com/global/en/job/8186084?gh_jid=8186084 | HelloFresh | Senior Product Manager II, Logistics
+
+- [ ] https://n26.com/en-eu/careers/positions/8023311?gh_jid=8023311 | N26 | Product Manager - Investments
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7989839003?gh_jid=7989839003 | Celonis | AI Product Manager (Demo)
 
 ## Fresh Scan 2026-04-23
 
