@@ -167,7 +167,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://careers.hellofresh.com/global/en/job/8096241?gh_jid=8096241 | HelloFresh | Operational Excellence & Transformation Manager
 
 - [ ] https://jobs.ashbyhq.com/decagon/ee6c3e3f-b6ce-4945-a367-172d2b62ccf8 | Decagon | Senior Agent Product Manager
 
@@ -181,6 +180,8 @@ Format: `- [ ] {url} | {company} | {title}`
 
 - [ ] https://n26.com/en-eu/careers/positions/8023311?gh_jid=8023311 | N26 | Product Manager - Investments
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7989839003?gh_jid=7989839003 | Celonis | AI Product Manager (Demo)
+
+- [ ] https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f | Spotify | Senior Product Manager - User Platform
 
 ## Fresh Scan 2026-04-23
 
