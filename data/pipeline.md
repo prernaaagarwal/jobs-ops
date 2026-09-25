@@ -168,7 +168,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://jobs.ashbyhq.com/decagon/ee6c3e3f-b6ce-4945-a367-172d2b62ccf8 | Decagon | Senior Agent Product Manager
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428898008 | Anthropic | Product Manager, Safe Access
 
@@ -182,6 +181,9 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7989839003?gh_jid=7989839003 | Celonis | AI Product Manager (Demo)
 
 - [ ] https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f | Spotify | Senior Product Manager - User Platform
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6205772004 | Vercel | Product Manager, Dashboard
+- [ ] https://jobs.lever.co/crypto/097a7b81-68bd-4cc5-a5a4-7eed9c8a0325 | Crypto.com | Product Manager, Fiat & FCM
 
 ## Fresh Scan 2026-04-23
 
