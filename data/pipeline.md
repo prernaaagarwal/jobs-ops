@@ -185,6 +185,10 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6205772004 | Vercel | Product Manager, Dashboard
 - [ ] https://jobs.lever.co/crypto/097a7b81-68bd-4cc5-a5a4-7eed9c8a0325 | Crypto.com | Product Manager, Fiat & FCM
 
+- [ ] https://careers.hellofresh.com/global/en/job/8204371?gh_jid=8204371 | HelloFresh | Product Manager (12 month FTC)
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8233818 | Smartsheet | Group Product Manager – Corporate Systems
+- [ ] https://jobs.lever.co/crypto/4557d4e7-7588-404d-860c-edf68a1ab200 | Crypto.com | Product Manager, Fiat & FCM
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
