@@ -169,13 +169,8 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428898008 | Anthropic | Product Manager, Safe Access
 
-- [ ] https://careers.hellofresh.com/global/en/job/8186086?gh_jid=8186086 | HelloFresh | Senior Product Manager II, Logistics (all genders) 
 
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5413576008 | Anthropic | Product Manager, Safeguards (Account Integrity & Abuse) 
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5400720008 | Anthropic | Product Manager, Safeguards (Generalist) 
-- [ ] https://careers.hellofresh.com/global/en/job/8186084?gh_jid=8186084 | HelloFresh | Senior Product Manager II, Logistics
 
 - [ ] https://n26.com/en-eu/careers/positions/8023311?gh_jid=8023311 | N26 | Product Manager - Investments
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7989839003?gh_jid=7989839003 | Celonis | AI Product Manager (Demo)
@@ -188,6 +183,14 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://careers.hellofresh.com/global/en/job/8204371?gh_jid=8204371 | HelloFresh | Product Manager (12 month FTC)
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8233818 | Smartsheet | Group Product Manager – Corporate Systems
 - [ ] https://jobs.lever.co/crypto/4557d4e7-7588-404d-860c-edf68a1ab200 | Crypto.com | Product Manager, Fiat & FCM
+
+- [ ] https://sumup.com/careers/positions/8821322002?gh_jid=8821322002 | SumUp | Senior Product Manager - Consumer Lifecycle 
+- [ ] https://jobs.lever.co/crypto/a898683e-d211-4e8c-8576-21f676993d90 | Crypto.com | Product Manager, Fiat & FCM
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6209001004 | Vercel | Product Manager, Compute
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6209044004 | Vercel | Product Manager, Networking + CDN
+- [ ] https://jobs.ashbyhq.com/photoroom/022b6f5b-bb46-45b7-801a-8a5f3b92a968 | Photoroom | Senior Product Manager, SMB e-commerce Growth
+- [ ] https://jobs.ashbyhq.com/photoroom/d075be71-4a2d-489a-9879-18e43363094e | Photoroom | Senior Product Manager, Core Product
 
 ## Fresh Scan 2026-04-23
 
