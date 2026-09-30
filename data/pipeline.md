@@ -172,8 +172,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://n26.com/en-eu/careers/positions/8023311?gh_jid=8023311 | N26 | Product Manager - Investments
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/7989839003?gh_jid=7989839003 | Celonis | AI Product Manager (Demo)
 
 - [ ] https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f | Spotify | Senior Product Manager - User Platform
 
@@ -191,6 +189,9 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6209044004 | Vercel | Product Manager, Networking + CDN
 - [ ] https://jobs.ashbyhq.com/photoroom/022b6f5b-bb46-45b7-801a-8a5f3b92a968 | Photoroom | Senior Product Manager, SMB e-commerce Growth
 - [ ] https://jobs.ashbyhq.com/photoroom/d075be71-4a2d-489a-9879-18e43363094e | Photoroom | Senior Product Manager, Core Product
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6210353004 | Vercel | Product Manager, Software Factory
+- [ ] https://careers.hellofresh.com/global/en/job/8121133?gh_jid=8121133 | HelloFresh |  Senior Postproduction Manager (x/f/m)
 
 ## Fresh Scan 2026-04-23
 
