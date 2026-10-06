@@ -173,25 +173,18 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f | Spotify | Senior Product Manager - User Platform
 
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/6205772004 | Vercel | Product Manager, Dashboard
-- [ ] https://jobs.lever.co/crypto/097a7b81-68bd-4cc5-a5a4-7eed9c8a0325 | Crypto.com | Product Manager, Fiat & FCM
 
-- [ ] https://careers.hellofresh.com/global/en/job/8204371?gh_jid=8204371 | HelloFresh | Product Manager (12 month FTC)
-- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8233818 | Smartsheet | Group Product Manager – Corporate Systems
-- [ ] https://jobs.lever.co/crypto/4557d4e7-7588-404d-860c-edf68a1ab200 | Crypto.com | Product Manager, Fiat & FCM
 
-- [ ] https://sumup.com/careers/positions/8821322002?gh_jid=8821322002 | SumUp | Senior Product Manager - Consumer Lifecycle 
-- [ ] https://jobs.lever.co/crypto/a898683e-d211-4e8c-8576-21f676993d90 | Crypto.com | Product Manager, Fiat & FCM
 
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/6209001004 | Vercel | Product Manager, Compute
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/6209044004 | Vercel | Product Manager, Networking + CDN
-- [ ] https://jobs.ashbyhq.com/photoroom/022b6f5b-bb46-45b7-801a-8a5f3b92a968 | Photoroom | Senior Product Manager, SMB e-commerce Growth
-- [ ] https://jobs.ashbyhq.com/photoroom/d075be71-4a2d-489a-9879-18e43363094e | Photoroom | Senior Product Manager, Core Product
 
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6210353004 | Vercel | Product Manager, Software Factory
 - [ ] https://careers.hellofresh.com/global/en/job/8121133?gh_jid=8121133 | HelloFresh |  Senior Postproduction Manager (x/f/m)
+
+- [ ] https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097 | Perplexity | Product Manager, Platform
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8845483002 | GitLab | Senior Product Manager, Billing Engine & Platforms Monetization
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8855883002 | GitLab | Senior Product Manager, CRM & GTM Systems
+- [ ] https://jobs.lever.co/qonto/6bcd0b5b-768b-49ff-8a89-3e630dbcc4a3 | Qonto | Senior Product Manager - Client Communication
 
 ## Fresh Scan 2026-04-23
 
