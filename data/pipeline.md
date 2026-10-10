@@ -178,13 +178,26 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/6210353004 | Vercel | Product Manager, Software Factory
-- [ ] https://careers.hellofresh.com/global/en/job/8121133?gh_jid=8121133 | HelloFresh |  Senior Postproduction Manager (x/f/m)
 
 - [ ] https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097 | Perplexity | Product Manager, Platform
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8845483002 | GitLab | Senior Product Manager, Billing Engine & Platforms Monetization
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8855883002 | GitLab | Senior Product Manager, CRM & GTM Systems
 - [ ] https://jobs.lever.co/qonto/6bcd0b5b-768b-49ff-8a89-3e630dbcc4a3 | Qonto | Senior Product Manager - Client Communication
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434361008 | Anthropic | Product Manager, Billing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448167008 | Anthropic | Product Manager, Claude
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434369008 | Anthropic | Product Manager, Enterprise Privacy
+- [ ] https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db | ElevenLabs | Enterprise Product Manager - ElevenCreative
+- [ ] https://jobs.ashbyhq.com/n8n/163162f1-9873-45b4-932e-aff27beea78a | n8n | Senior Product Manager (Licensing & Billing)
+- [ ] https://helsing.ai/jobs/4999686101?gh_jid=4999686101 | Helsing | Product Manager – Perception & Sensor Fusion
+- [ ] https://n26.com/en-eu/careers/positions/8267143?gh_jid=8267143 | N26 | Lead Technical Product Manager — Machine Learning Platform
+- [ ] https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622 | Supabase | Product Manager - Realtime
+- [ ] https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50 | Supabase | Product Manager - Auth
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8232722 | InMobi | Product Manager - Programmatic Monetization
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8265320 | Smartsheet | Product Operations Manager (Remote Eligible)
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8264858 | Smartsheet | Senior Product Manager – People Systems
+- [ ] https://job-boards.greenhouse.io/securityscorecard/jobs/8167731 | SecurityScorecard | Product Operations Manager, Human and Agent Experience
+- [ ] https://jobs.lever.co/qonto/a40b1280-6a09-48bd-aa35-6a5f11002f57 | Qonto | Senior Product Manager - Public APIs
 
 ## Fresh Scan 2026-04-23
 
