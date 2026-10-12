@@ -199,6 +199,8 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/securityscorecard/jobs/8167731 | SecurityScorecard | Product Operations Manager, Human and Agent Experience
 - [ ] https://jobs.lever.co/qonto/a40b1280-6a09-48bd-aa35-6a5f11002f57 | Qonto | Senior Product Manager - Public APIs
 
+- [ ] https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322 | N26 | Lead Technical Product Manager — Machine Learning Platform
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
