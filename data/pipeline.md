@@ -179,10 +179,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097 | Perplexity | Product Manager, Platform
-- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8845483002 | GitLab | Senior Product Manager, Billing Engine & Platforms Monetization
-- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8855883002 | GitLab | Senior Product Manager, CRM & GTM Systems
-- [ ] https://jobs.lever.co/qonto/6bcd0b5b-768b-49ff-8a89-3e630dbcc4a3 | Qonto | Senior Product Manager - Client Communication
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434361008 | Anthropic | Product Manager, Billing
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448167008 | Anthropic | Product Manager, Claude
@@ -200,6 +196,8 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://jobs.lever.co/qonto/a40b1280-6a09-48bd-aa35-6a5f11002f57 | Qonto | Senior Product Manager - Public APIs
 
 - [ ] https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322 | N26 | Lead Technical Product Manager — Machine Learning Platform
+
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8264267 | Intercom | SeniorProduct Manager (Service Agent Team) 
 
 ## Fresh Scan 2026-04-23
 
