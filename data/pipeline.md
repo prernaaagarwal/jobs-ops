@@ -199,6 +199,11 @@ Format: `- [ ] {url} | {company} | {title}`
 
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8264267 | Intercom | SeniorProduct Manager (Service Agent Team) 
 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0 | ElevenLabs | Product Manager (ElevenCreative Self-Serve)
+- [ ] https://jobs.ashbyhq.com/decagon/63face0d-b26a-4ea7-b03d-2fa842013063 | Decagon | Agent Product Manager
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8284800 | GetYourGuide | Lead Product Manager, User Platform 
+- [ ] https://jobs.lever.co/spotify/c5c82f59-504f-47f4-961e-a2d50a248357 | Spotify | Senior Product Manager, Consumer - Audiobooks
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
