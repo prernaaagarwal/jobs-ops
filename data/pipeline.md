@@ -180,20 +180,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434361008 | Anthropic | Product Manager, Billing
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448167008 | Anthropic | Product Manager, Claude
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434369008 | Anthropic | Product Manager, Enterprise Privacy
-- [ ] https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db | ElevenLabs | Enterprise Product Manager - ElevenCreative
-- [ ] https://jobs.ashbyhq.com/n8n/163162f1-9873-45b4-932e-aff27beea78a | n8n | Senior Product Manager (Licensing & Billing)
-- [ ] https://helsing.ai/jobs/4999686101?gh_jid=4999686101 | Helsing | Product Manager – Perception & Sensor Fusion
-- [ ] https://n26.com/en-eu/careers/positions/8267143?gh_jid=8267143 | N26 | Lead Technical Product Manager — Machine Learning Platform
-- [ ] https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622 | Supabase | Product Manager - Realtime
-- [ ] https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50 | Supabase | Product Manager - Auth
-- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8232722 | InMobi | Product Manager - Programmatic Monetization
-- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8265320 | Smartsheet | Product Operations Manager (Remote Eligible)
-- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8264858 | Smartsheet | Senior Product Manager – People Systems
-- [ ] https://job-boards.greenhouse.io/securityscorecard/jobs/8167731 | SecurityScorecard | Product Operations Manager, Human and Agent Experience
-- [ ] https://jobs.lever.co/qonto/a40b1280-6a09-48bd-aa35-6a5f11002f57 | Qonto | Senior Product Manager - Public APIs
 
 - [ ] https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322 | N26 | Lead Technical Product Manager — Machine Learning Platform
 
