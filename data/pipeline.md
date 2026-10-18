@@ -190,6 +190,8 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8284800 | GetYourGuide | Lead Product Manager, User Platform 
 - [ ] https://jobs.lever.co/spotify/c5c82f59-504f-47f4-961e-a2d50a248357 | Spotify | Senior Product Manager, Consumer - Audiobooks
 
+- [ ] https://jobs.lever.co/spotify/ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd | Spotify | Senior Product Manager, Consumer - Audiobooks
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
