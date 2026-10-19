@@ -181,7 +181,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322 | N26 | Lead Technical Product Manager — Machine Learning Platform
 
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8264267 | Intercom | SeniorProduct Manager (Service Agent Team) 
 
