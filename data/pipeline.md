@@ -199,6 +199,10 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8315864 | Smartsheet | Senior Product Manager I (Remote Eligible)
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8305872 | Smartsheet | Sr. Product Manager I
 
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8317679 | Smartsheet | Sr. Product Manager I - Data Mesh
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8894806002 | GitLab | Senior Product Manager, Switchboard
+- [ ] https://jobs.lever.co/spotify/8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d | Spotify | Senior Product Manager - Spotify Connect
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
