@@ -184,7 +184,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://jobs.lever.co/spotify/ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd | Spotify | Senior Product Manager, Consumer - Audiobooks
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5457043008 | Anthropic | Product Manager, Claude Marketplace
 
