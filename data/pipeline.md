@@ -185,7 +185,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5457043008 | Anthropic | Product Manager, Claude Marketplace
 
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6228301004 | Vercel | Product Manager, Storage
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714727005 | Scale AI | Product Leadership, Enterprise Core Platform
@@ -201,6 +200,9 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8317679 | Smartsheet | Sr. Product Manager I - Data Mesh
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8894806002 | GitLab | Senior Product Manager, Switchboard
 - [ ] https://jobs.lever.co/spotify/8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d | Spotify | Senior Product Manager - Spotify Connect
+
+- [ ] https://jobs.ashbyhq.com/photoroom/f3934b79-3cde-450d-b8bb-548aa7bfd43f | Photoroom | Senior Product Manager, SMB e-commerce Growth
+- [ ] https://jobs.ashbyhq.com/photoroom/a7dbe175-07fc-43c7-8061-4e7e9bfc1d2a | Photoroom | Senior Product Manager, Core Product
 
 ## Fresh Scan 2026-04-23
 
