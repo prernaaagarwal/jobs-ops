@@ -186,8 +186,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/vercel/jobs/6228301004 | Vercel | Product Manager, Storage
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714727005 | Scale AI | Product Leadership, Enterprise Core Platform
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5415822008 | Anthropic | Product Manager (Technical), Product Support Experience
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4579657005 | Glean | Product Manager, Agent Security & Governance
@@ -203,6 +201,9 @@ Format: `- [ ] {url} | {company} | {title}`
 
 - [ ] https://jobs.ashbyhq.com/photoroom/f3934b79-3cde-450d-b8bb-548aa7bfd43f | Photoroom | Senior Product Manager, SMB e-commerce Growth
 - [ ] https://jobs.ashbyhq.com/photoroom/a7dbe175-07fc-43c7-8061-4e7e9bfc1d2a | Photoroom | Senior Product Manager, Core Product
+
+- [ ] https://helsing.ai/jobs/5017322101?gh_jid=5017322101 | Helsing | Senior Power Electronics Engineer 
+- [ ] https://sumup.com/careers/positions/8907452002?gh_jid=8907452002 | SumUp | Senior Product Manager - Customer Directory
 
 ## Fresh Scan 2026-04-23
 
