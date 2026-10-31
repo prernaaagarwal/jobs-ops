@@ -187,17 +187,7 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5415822008 | Anthropic | Product Manager (Technical), Product Support Experience
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4579657005 | Glean | Product Manager, Agent Security & Governance
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4525519005 | Glean | Product Manager, AI Quality
-- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4701913005 | Glean | Product Manager, Enterprise Intelligence
-- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5012037101 | PhysicsX | Senior Product Manager
-- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8315864 | Smartsheet | Senior Product Manager I (Remote Eligible)
-- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8305872 | Smartsheet | Sr. Product Manager I
 
-- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8317679 | Smartsheet | Sr. Product Manager I - Data Mesh
-- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8894806002 | GitLab | Senior Product Manager, Switchboard
-- [ ] https://jobs.lever.co/spotify/8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d | Spotify | Senior Product Manager - Spotify Connect
 
 - [ ] https://jobs.ashbyhq.com/photoroom/f3934b79-3cde-450d-b8bb-548aa7bfd43f | Photoroom | Senior Product Manager, SMB e-commerce Growth
 - [ ] https://jobs.ashbyhq.com/photoroom/a7dbe175-07fc-43c7-8061-4e7e9bfc1d2a | Photoroom | Senior Product Manager, Core Product
