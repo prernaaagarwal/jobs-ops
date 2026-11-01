@@ -195,6 +195,9 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://helsing.ai/jobs/5017322101?gh_jid=5017322101 | Helsing | Senior Power Electronics Engineer 
 - [ ] https://sumup.com/careers/positions/8907452002?gh_jid=8907452002 | SumUp | Senior Product Manager - Customer Directory
 
+- [ ] https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3 | Supabase | Product Manager -  Administration & Governance
+- [ ] https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892 | Supabase | Product Manager - Spark
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
