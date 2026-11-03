@@ -189,14 +189,15 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://jobs.ashbyhq.com/photoroom/f3934b79-3cde-450d-b8bb-548aa7bfd43f | Photoroom | Senior Product Manager, SMB e-commerce Growth
-- [ ] https://jobs.ashbyhq.com/photoroom/a7dbe175-07fc-43c7-8061-4e7e9bfc1d2a | Photoroom | Senior Product Manager, Core Product
 
 - [ ] https://helsing.ai/jobs/5017322101?gh_jid=5017322101 | Helsing | Senior Power Electronics Engineer 
 - [ ] https://sumup.com/careers/positions/8907452002?gh_jid=8907452002 | SumUp | Senior Product Manager - Customer Directory
 
 - [ ] https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3 | Supabase | Product Manager -  Administration & Governance
 - [ ] https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892 | Supabase | Product Manager - Spark
+
+- [ ] https://jobs.ashbyhq.com/bland/f0d879a1-5919-4d61-addd-8f0f1867428c | Bland AI | Product Manager
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8905040002 | GitLab | Senior Product Manager - Data Integrations
 
 ## Fresh Scan 2026-04-23
 
