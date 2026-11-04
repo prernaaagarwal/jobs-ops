@@ -190,14 +190,16 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://helsing.ai/jobs/5017322101?gh_jid=5017322101 | Helsing | Senior Power Electronics Engineer 
-- [ ] https://sumup.com/careers/positions/8907452002?gh_jid=8907452002 | SumUp | Senior Product Manager - Customer Directory
 
 - [ ] https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3 | Supabase | Product Manager -  Administration & Governance
 - [ ] https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892 | Supabase | Product Manager - Spark
 
 - [ ] https://jobs.ashbyhq.com/bland/f0d879a1-5919-4d61-addd-8f0f1867428c | Bland AI | Product Manager
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8905040002 | GitLab | Senior Product Manager - Data Integrations
+
+- [ ] https://jobs.ashbyhq.com/n8n/473bcbae-ad3e-4611-8ca3-3499040e5f22 | n8n | Senior Product Manager - AI Gateway
+- [ ] https://traderepublic.com/en-de/about?jobId=5614732003&gh_jid=5614732003 | Trade Republic | Product Manager
+- [ ] https://jobs.ashbyhq.com/causaly/c85520a1-6cc9-46b9-b52f-529093b3f44f | Causaly | Strategy & Solutions Lead
 
 ## Fresh Scan 2026-04-23
 
