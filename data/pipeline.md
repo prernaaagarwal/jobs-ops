@@ -201,6 +201,10 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://traderepublic.com/en-de/about?jobId=5614732003&gh_jid=5614732003 | Trade Republic | Product Manager
 - [ ] https://jobs.ashbyhq.com/causaly/c85520a1-6cc9-46b9-b52f-529093b3f44f | Causaly | Strategy & Solutions Lead
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8352417 | Intercom | Senior Product Manager (Growth)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7556882 | GetYourGuide | Senior Product Manager, Inventory 
+- [ ] https://jobs.ashbyhq.com/causaly/4f603e59-5574-4c9e-98ae-a97a47461558 | Causaly | Strategy & Solutions Lead
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
