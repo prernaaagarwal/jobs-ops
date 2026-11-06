@@ -205,6 +205,8 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7556882 | GetYourGuide | Senior Product Manager, Inventory 
 - [ ] https://jobs.ashbyhq.com/causaly/4f603e59-5574-4c9e-98ae-a97a47461558 | Causaly | Strategy & Solutions Lead
 
+- [ ] https://jobs.ashbyhq.com/faculty/34a7ebbb-6f37-4ad1-a082-f10cd2a2d4fb | Faculty | Lead Product Manager
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
