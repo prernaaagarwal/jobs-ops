@@ -207,6 +207,9 @@ Format: `- [ ] {url} | {company} | {title}`
 
 - [ ] https://jobs.ashbyhq.com/faculty/34a7ebbb-6f37-4ad1-a082-f10cd2a2d4fb | Faculty | Lead Product Manager
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8350909 | Intercom | Senior Product Manager (Growth)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4751108005 | Scale AI | Product Manager, AI Applications
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
