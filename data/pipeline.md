@@ -192,8 +192,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://jobs.ashbyhq.com/bland/f0d879a1-5919-4d61-addd-8f0f1867428c | Bland AI | Product Manager
-- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8905040002 | GitLab | Senior Product Manager - Data Integrations
 
 - [ ] https://jobs.ashbyhq.com/n8n/473bcbae-ad3e-4611-8ca3-3499040e5f22 | n8n | Senior Product Manager - AI Gateway
 - [ ] https://traderepublic.com/en-de/about?jobId=5614732003&gh_jid=5614732003 | Trade Republic | Product Manager
@@ -207,6 +205,10 @@ Format: `- [ ] {url} | {company} | {title}`
 
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/8350909 | Intercom | Senior Product Manager (Growth)
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4751108005 | Scale AI | Product Manager, AI Applications
+
+- [ ] https://jobs.ashbyhq.com/legora/844dc8eb-51ed-4c89-baf2-f8cf4ef385a6 | Legora | Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/legora/38f8e6a6-00d3-4980-b007-5ca01b422f02 | Legora | Product Operations Manager 
+- [ ] https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e | Supabase | Product Manager - Postgres
 
 ## Fresh Scan 2026-04-23
 
