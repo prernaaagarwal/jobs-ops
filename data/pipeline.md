@@ -194,14 +194,8 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/8352417 | Intercom | Senior Product Manager (Growth)
-- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7556882 | GetYourGuide | Senior Product Manager, Inventory 
-- [ ] https://jobs.ashbyhq.com/causaly/4f603e59-5574-4c9e-98ae-a97a47461558 | Causaly | Strategy & Solutions Lead
 
-- [ ] https://jobs.ashbyhq.com/faculty/34a7ebbb-6f37-4ad1-a082-f10cd2a2d4fb | Faculty | Lead Product Manager
 
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/8350909 | Intercom | Senior Product Manager (Growth)
-- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4751108005 | Scale AI | Product Manager, AI Applications
 
 - [ ] https://jobs.ashbyhq.com/legora/844dc8eb-51ed-4c89-baf2-f8cf4ef385a6 | Legora | Product Operations Manager
 - [ ] https://jobs.ashbyhq.com/legora/38f8e6a6-00d3-4980-b007-5ca01b422f02 | Legora | Product Operations Manager 
@@ -210,6 +204,12 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/6254817004 | Arize AI | Senior AI Product Manager, Evals & Annotations
 - [ ] https://jobs.ashbyhq.com/faculty/e1df8d31-461f-43b4-81ed-dbf8cd9fbedf | Faculty | Senior Product Manager
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8345630 | Smartsheet | Group Product Manager
+
+- [ ] https://helsing.ai/jobs/5034019101?gh_jid=5034019101 | Helsing | Product Manager - Autonomy 
+- [ ] https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a | Perplexity | Product Manager, Legal
+- [ ] https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a | Spotify | Senior Product Manager — Subscriptions (Freemium)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477601008 | Anthropic | Product Manager, Seller Experience 
 
 ## Fresh Scan 2026-04-23
 
