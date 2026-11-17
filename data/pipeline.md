@@ -197,9 +197,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://jobs.ashbyhq.com/legora/844dc8eb-51ed-4c89-baf2-f8cf4ef385a6 | Legora | Product Operations Manager
-- [ ] https://jobs.ashbyhq.com/legora/38f8e6a6-00d3-4980-b007-5ca01b422f02 | Legora | Product Operations Manager 
-- [ ] https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e | Supabase | Product Manager - Postgres
 
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/6254817004 | Arize AI | Senior AI Product Manager, Evals & Annotations
 - [ ] https://jobs.ashbyhq.com/faculty/e1df8d31-461f-43b4-81ed-dbf8cd9fbedf | Faculty | Senior Product Manager
@@ -210,6 +207,9 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a | Spotify | Senior Product Manager — Subscriptions (Freemium)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477601008 | Anthropic | Product Manager, Seller Experience 
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8203723003?gh_jid=8203723003 | Celonis | Senior AI Transformation & Innovation Consultant
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8349134 | InMobi | Product Manager
 
 ## Fresh Scan 2026-04-23
 
