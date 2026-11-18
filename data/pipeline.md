@@ -198,9 +198,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6254817004 | Arize AI | Senior AI Product Manager, Evals & Annotations
-- [ ] https://jobs.ashbyhq.com/faculty/e1df8d31-461f-43b4-81ed-dbf8cd9fbedf | Faculty | Senior Product Manager
-- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8345630 | Smartsheet | Group Product Manager
 
 - [ ] https://helsing.ai/jobs/5034019101?gh_jid=5034019101 | Helsing | Product Manager - Autonomy 
 - [ ] https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a | Perplexity | Product Manager, Legal
@@ -210,6 +207,8 @@ Format: `- [ ] {url} | {company} | {title}`
 
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/8203723003?gh_jid=8203723003 | Celonis | Senior AI Transformation & Innovation Consultant
 - [ ] https://job-boards.greenhouse.io/inmobi/jobs/8349134 | InMobi | Product Manager
+
+- [ ] https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5 | LangChain | Product Manager, Monetization 
 
 ## Fresh Scan 2026-04-23
 
