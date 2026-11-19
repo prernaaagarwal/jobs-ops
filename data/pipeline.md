@@ -210,6 +210,8 @@ Format: `- [ ] {url} | {company} | {title}`
 
 - [ ] https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5 | LangChain | Product Manager, Monetization 
 
+- [ ] https://jobs.ashbyhq.com/Deepgram/19954a4c-7f3f-4231-8480-c7ec628e61a4 | Deepgram | Senior Product Manager, Enterprise
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
