@@ -199,9 +199,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://helsing.ai/jobs/5034019101?gh_jid=5034019101 | Helsing | Product Manager - Autonomy 
-- [ ] https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a | Perplexity | Product Manager, Legal
-- [ ] https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a | Spotify | Senior Product Manager — Subscriptions (Freemium)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477601008 | Anthropic | Product Manager, Seller Experience 
 
@@ -211,6 +208,11 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5 | LangChain | Product Manager, Monetization 
 
 - [ ] https://jobs.ashbyhq.com/Deepgram/19954a4c-7f3f-4231-8480-c7ec628e61a4 | Deepgram | Senior Product Manager, Enterprise
+
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358144 | InMobi | Senior Product Manager - Core Product Experience
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358188 | InMobi | Senior Product Manager - Monetisation & Payments 
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358196 | InMobi | Senior Product Manager - Onboarding & Activation
+- [ ] https://jobs.lever.co/spotify/5ddb2fa1-4494-48a9-84c0-b646da91edb8 | Spotify | Senior Product Manager - Free and Premium Conversion
 
 ## Fresh Scan 2026-04-23
 
