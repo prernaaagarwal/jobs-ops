@@ -200,7 +200,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477601008 | Anthropic | Product Manager, Seller Experience 
 
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/8203723003?gh_jid=8203723003 | Celonis | Senior AI Transformation & Innovation Consultant
 - [ ] https://job-boards.greenhouse.io/inmobi/jobs/8349134 | InMobi | Product Manager
