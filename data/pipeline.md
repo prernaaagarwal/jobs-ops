@@ -201,8 +201,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/celonis/jobs/8203723003?gh_jid=8203723003 | Celonis | Senior AI Transformation & Innovation Consultant
-- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8349134 | InMobi | Product Manager
 
 - [ ] https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5 | LangChain | Product Manager, Monetization 
 
