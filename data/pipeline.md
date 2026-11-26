@@ -203,7 +203,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://jobs.ashbyhq.com/Deepgram/19954a4c-7f3f-4231-8480-c7ec628e61a4 | Deepgram | Senior Product Manager, Enterprise
 
 - [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358144 | InMobi | Senior Product Manager - Core Product Experience
 - [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358188 | InMobi | Senior Product Manager - Monetisation & Payments 
@@ -211,6 +210,10 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://jobs.lever.co/spotify/5ddb2fa1-4494-48a9-84c0-b646da91edb8 | Spotify | Senior Product Manager - Free and Premium Conversion
 
 - [ ] https://careers.hellofresh.com/global/en/job/8411483?gh_jid=8411483 | HelloFresh | Senior Product Manager, Application Platform 
+
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8416997 | Intercom | Senior Product Manager (Customer Agent Team) Berlin
+- [ ] https://n26.com/en-eu/careers/positions/8416464?gh_jid=8416464 | N26 | Senior Product Manager - Investments
+- [ ] https://jobs.lever.co/pigment/88f179ca-b73b-4143-8d06-ed47300b53d7 | Pigment | Senior Product Manager (DataFetch)
 
 ## Fresh Scan 2026-04-23
 
