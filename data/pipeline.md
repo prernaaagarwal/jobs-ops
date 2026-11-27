@@ -204,10 +204,6 @@ Format: `- [ ] {url} | {company} | {title}`
 
 
 
-- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358144 | InMobi | Senior Product Manager - Core Product Experience
-- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358188 | InMobi | Senior Product Manager - Monetisation & Payments 
-- [ ] https://job-boards.greenhouse.io/inmobi/jobs/8358196 | InMobi | Senior Product Manager - Onboarding & Activation
-- [ ] https://jobs.lever.co/spotify/5ddb2fa1-4494-48a9-84c0-b646da91edb8 | Spotify | Senior Product Manager - Free and Premium Conversion
 
 - [ ] https://careers.hellofresh.com/global/en/job/8411483?gh_jid=8411483 | HelloFresh | Senior Product Manager, Application Platform 
 
