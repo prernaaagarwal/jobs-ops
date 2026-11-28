@@ -211,6 +211,9 @@ Format: `- [ ] {url} | {company} | {title}`
 - [ ] https://n26.com/en-eu/careers/positions/8416464?gh_jid=8416464 | N26 | Senior Product Manager - Investments
 - [ ] https://jobs.lever.co/pigment/88f179ca-b73b-4143-8d06-ed47300b53d7 | Pigment | Senior Product Manager (DataFetch)
 
+- [ ] https://jobs.ashbyhq.com/n8n/e59937c7-8c6b-4023-83df-7f755accf6f7 | n8n | Group Product Manager - AI Experience
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6272449004 | Isomorphic Labs | Senior Product Manager (Core Platforms), London
+
 ## Fresh Scan 2026-04-23
 
 <!-- ── UAE / Dubai ── -->
